@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769498891831",
+    "project_id": "stream-share-880b4",
+    "storage_bucket": "stream-share-880b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769498891831:android:f2753bb3c2b3931bd3a1b2",
+        "android_client_info": {
+          "package_name": "com.example.stream_share"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCoNPzh0ZPmuwTVsu8SibQ4Tl-4EJWn8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
